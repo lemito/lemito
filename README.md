@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @lemito<br>👀 I’m interested in programming, self-exploration and a lot of other things<br>🌱 I’m currently learning at the Moscow Aviation Institute in the direction of "Fundamental Informatics and Information Technologies".<br>📫 How to reach me:<br>📩e-mail: delovoy.lemit@gmail.com<br>
+👋 Hi, I’m @lemito<br>👀 I’m interested in programming, self-exploration and a lot of other things<br>🌱 I’m currently learning at the Moscow Aviation Institute in the direction of "Fundamental Informatics and Information Technologies".<br>📫 How to reach me:<br>&ensp;📩e-mail: delovoy.lemit@gmail.com<br>&ensp;tg chanel: https://t.me/lemtooo
 
 
 # 💻 Tech Stack:
